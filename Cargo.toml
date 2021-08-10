@@ -2,7 +2,7 @@
 name = "mytraits"
 version = "0.1.0"
 edition = "2018"
-description = "This crate adds various methods to common typs in order to make your life easier with daily Rust tasks."
+description = "This crate adds various methods to common Rust types in order to make your life easier with daily Rust task."
 license = "MIT"
 authors = ["Yang Shuai <yangshuai@gmail.com>"]
 
